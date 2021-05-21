@@ -1,0 +1,3 @@
+This project was done by Vasu Suresh(107119133), Bhahulya Thrimalaisamy(107119031) and Sanidhya Jaithalia(107119109) of EEE-A. The project performs the
+performance analysis of the single circuit three phase over head transmission lines. For smooth functioning of the program all files from the zip must be 
+dowload and stored in one file. 
